@@ -18,6 +18,7 @@ header {
   background-image: url(./images/headphones_hero_1.jpg);
   background-position: center;
   height: 128vh;
+  
 }
 
 /* HEADER NAV */
@@ -116,8 +117,10 @@ ul.topnav li {float: left;}
 
 
 .what-we-do {
-    padding-bottom: 5rem;
+    padding:;
     text-align: center;
+    background-color: white;
+    color: black;
     
 }
 
